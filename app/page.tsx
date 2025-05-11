@@ -95,6 +95,9 @@ export default function Home() {
               icon="zap"
               image="/electric-intelligent.jpg"
             />
+
+
+            {/* ahfuAHF */}
             <FeatureCard
               title="MBUX Hyperscreen"
               description="Stunning 56-inch curved display with intuitive AI-powered interface."
