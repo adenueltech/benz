@@ -93,7 +93,7 @@ export default function Home() {
               title="Electric Intelligence"
               description="Advanced electric drivetrain with exceptional range and performance."
               icon="zap"
-              image="/electric-intelligent.jpg"
+              image="/herroo.jpg"
             />
 
 
@@ -184,9 +184,9 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
-              { name: "EQS Sedan", type: "Electric", image: "/EQS.JPG", description: "The all-electric luxury sedan with exceptional range and performance" },
-              { name: "S-Class", type: "Luxury", image: "/SEDAN.JPG", description: "The flagship luxury sedan with cutting-edge technology and comfort" },
-              { name: "AMG GT", type: "Performance", image: "/AMG.JPG", description: "High-performance sports car with race-inspired engineering" },
+              { name: "EQS Sedan", type: "Electric", image: "/EQS.jpg", description: "The all-electric luxury sedan with exceptional range and performance" },
+              { name: "S-Class", type: "Luxury", image: "/SEDAN.jpg", description: "The flagship luxury sedan with cutting-edge technology and comfort" },
+              { name: "AMG GT", type: "Performance", image: "/AMG.jpg", description: "High-performance sports car with race-inspired engineering" },
             ].map((model, index) => (
               <div
                 key={index}
