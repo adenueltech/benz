@@ -93,7 +93,7 @@ export default function Home() {
               title="Electric Intelligence"
               description="Advanced electric drivetrain with exceptional range and performance."
               icon="zap"
-              image="/herroo.jpg"
+              image="/ei.jpeg"
             />
 
 
