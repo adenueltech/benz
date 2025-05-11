@@ -100,16 +100,7 @@ export default function VideoHero() {
               </Button>
 
               {/* Only show play button if video isn't autoplaying */}
-              {!isVideoPlaying && (
-                <Button
-                  variant="outline"
-                  className="border-white text-white hover:bg-white/20 text-lg px-8 py-6 h-auto"
-                  onClick={handlePlayVideo}
-                >
-                  <Play className="mr-2 h-5 w-5" />
-                  Watch Video
-                </Button>
-              )}
+             
             </div>
           </div>
         </div>
